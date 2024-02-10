@@ -1,0 +1,14 @@
+/* Write your code here. */
+.icon-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+}
+
+li {
+  list-style-type: none;
+}
